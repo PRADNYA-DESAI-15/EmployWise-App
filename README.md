@@ -1,4 +1,3 @@
-# EmployWise-App
 # EmployWise App
 
 EmployWise is a simple React-based application that allows user authentication and user management using the Reqres API.
@@ -9,6 +8,9 @@ EmployWise is a simple React-based application that allows user authentication a
 - Edit User Information
 - Delete User
 - Pagination for User List
+
+## Live Demo
+You can access the deployed version of the application here: [EmployWise App](https://employ-wise-app.vercel.app/)
 
 ## Installation
 
@@ -93,5 +95,4 @@ If `vite` is not recognized, try installing it globally:
 ```sh
 npm install -g vite
 ```
-
 
